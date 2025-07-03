@@ -1,0 +1,12 @@
+#Basic String Manipulation in python
+
+a="hello"
+b="world"
+print(a)
+print(b)
+print(a+b)
+print(a*2)
+print(a.upper())
+print(a.lower())
+print(b.upper())
+print(b.lower())
