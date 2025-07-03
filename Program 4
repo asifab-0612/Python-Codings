@@ -1,0 +1,7 @@
+#Simple Volume Calculation in Python
+
+l=10
+w=20
+h=30
+volume=l*w*h
+print("The volume of the box is:", volume)
