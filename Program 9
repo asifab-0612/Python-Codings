@@ -1,0 +1,8 @@
+#Composition Function Example
+
+def f1(a):
+   return a*2
+def f2(b):
+   return b*3
+r=f1(f2(5))
+print(r)
